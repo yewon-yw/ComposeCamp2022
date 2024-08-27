@@ -18,22 +18,22 @@
 
 ## 📖공부한 내용 정리
 **Pathway 1-1**
-- [Jetpack Compose Tutorial](pathway1/JetpackComposeTutorial.md)
-- [Jetpack Compose 기초](pathway1/CreatethefirstComposeapp.md)
-- [Basic Layout of Compose](pathway1/BasicLayoutofCompose.md)
+- [Jetpack Compose Tutorial](pathway1/Jetpack%20Compose%20Tutorial.md)
+- [Jetpack Compose 기초](pathway1/Create%20the%20first%20Compose%20app.md)
+- [Basic Layout of Compose](pathway1/Basic%20Layout%20of%20Compose.md)
 
 **Pathway 1-2**
-- [Compose 기본 사항](pathway1-2/ComposeBasics.md)
-- [Jetpack Compose 테마 설정](pathway1-2/SetComposetheme.md)
-- [Jetpack Compose 의 상태](pathway1-2/StateinCompose.md)
+- [Compose 기본 사항](pathway1-2/Compose%20Basics.md)
+- [Jetpack Compose 테마 설정](pathway1-2/Set%20Compose%20theme.md)
+- [Jetpack Compose 의 상태](pathway1-2/State%20in%20Compose.md)
 
 **Pathway 2**
 - [Jetpack Compose 의 요소 애니메이션](pathway2/AnimationCodelab/Animation.md)
 
 **Pathway 3**
-- [Jetpack Compose 의 고급 상태 및 부작용](pathway3/AdvancedStateandIncidentalEffects.md)
+- [Jetpack Compose 의 고급 상태 및 부작용](pathway3/Advanced%20State%20and%20Incidental%20Effects.md)
 - [Jetpack Compose 탐색](pathway3/Navigation.md)
-- [Compose UI 설계](pathway3/ComposeUIDesign.md)
+- [Compose UI 설계](pathway3/Compose%20UI%20Design.md)
 
 <br>
 
